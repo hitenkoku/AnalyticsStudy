@@ -1,7 +1,7 @@
 # 統計学勉強会
 ## ～俺たちのビッグデータはまだ始まったばかりだ～
 
- XX/XX/XX
+ 2014/11/22
 
  Alan Smithee @...
 
@@ -52,11 +52,6 @@
 ---
 
 ## 自己紹介
-  1人1分ほどでよろしくお願いします
-
---@
-
-## 自己紹介
 
 例
 
@@ -78,7 +73,7 @@
 ## 使う教材
 統計学入門(基礎統計学)
 
-![統計学入門](http://ecx.images-amazon.com/images/I/512H1E9ARDL.jpg, "統計学入門")
+![統計学入門](http://ecx.images-amazon.com/images/I/512H1E9ARDL.jpg "統計学入門")
 
 基本的にはなくても大丈夫なように努力します。
 
@@ -175,9 +170,8 @@ etc...
 
 * 平均
 
-```math
-\mu = \frac{1}{N}\sigma_{i}^{N}x_{i}
-```
+![平均](http://bit.ly/1xzEZxC "mean")
+
 
 ---
 
