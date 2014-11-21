@@ -171,7 +171,7 @@ etc...
 * 平均
 
 
-$\mu = \frac{1}{N}(x_1+x_2+\dots+x_N)=\frac{1}{N}\sum_{i=1}^{N}x_i$
+\\[ \mu = \frac{1}{N}(x_1+x_2+\dots+x_N)=\frac{1}{N}\sum_{i=1}^{N}x_i$ \\]
 
 ---
 
