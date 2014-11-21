@@ -170,8 +170,8 @@ etc...
 
 * 平均
 
-![平均](http://bit.ly/1xzEZxC "mean")
 
+$\mu = \frac{1}{N}(x_1+x_2+\dots+x_N)=\frac{1}{N}\sum_{i=1}^{N}x_i$
 
 ---
 
