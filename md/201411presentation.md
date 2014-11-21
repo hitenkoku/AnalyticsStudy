@@ -171,7 +171,7 @@ etc...
 * 平均
 
 
-\\[ \mu = \frac{1}{N}(x_1+x_2+\dots+x_N)=\frac{1}{N}\sum_{i=1}^{N}x_i$ \\]
+![平均](http://latex.codecogs.com/png.latex?%5Cmu%20%3D%20%5Cfrac%7B1%7D%7BN%7D%28x_1&plus;x_2&plus;%5Cdots&plus;x_N%29%3D%5Cfrac%7B1%7D%7BN%7D%5Csum_%7Bi%3D1%7D%5E%7BN%7Dx_i)
 
 ---
 
